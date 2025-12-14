@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "G-k.i.d - Cry Baby [Official Music Video］",
+  "base_artist": "G-k.i.d",
+  "createdAt": "2025-12-14T06:07:40.347920Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OMW (feat. Benjazzy & G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/01_OMW_(feat._Benjazzy_&_G-k.i.d)_BAD_HOP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tsurumanai (feat. YZERR, Vingo & G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/02_Tsurumanai_(feat._YZERR,_Vingo_&_G-k.i.d)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "3LDK (feat. Yellow Pato, Bark & G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/03_3LDK_(feat._Yellow_Pato,_Bark_&_G-k.i.d)_BAD_HOP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lonely Child (feat. G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/04_Lonely_Child_(feat._G-k.i.d)_BAD_HOP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lonely Child (feat. G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/05_Lonely_Child_(feat._G-k.i.d)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lonely Child（feat. G-k.i.d）",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/06_Lonely_Child(feat._G-k.i.d)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Lead (feat. G-k.i.d, Benjazzy & Bark)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/07_The_Lead_(feat._G-k.i.d,_Benjazzy_&_Bark)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "JET (feat. G-k.i.d, Yellow Pato & Tiji Jojo)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/08_JET_(feat._G-k.i.d,_Yellow_Pato_&_Tiji_Jojo)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Round One (feat. YZERR, G-k.i.d, Vingo & Bark)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/09_Round_One_(feat._YZERR,_G-k.i.d,_Vingo_&_Bark)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LIFE SIZE (feat. G-k.i.d)",
+      "artist": "ELIONE",
+      "has_synced": false,
+      "path": "select/10_LIFE_SIZE_(feat._G-k.i.d)_ELIONE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Championship (feat. G-k.i.d, MC TYSON & KOWICHI)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/11_Championship_(feat._G-k.i.d,_MC_TYSON_&_KOWICHI)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Feel Like Goku (feat. T-Pablow, Vingo & G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/12_I_Feel_Like_Goku_(feat._T-Pablow,_Vingo_&_G-k.i.d)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mobb Life Tour (feat. Tiji Jojo, G-k.i.d & Vingo)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/13_Mobb_Life_Tour_(feat._Tiji_Jojo,_G-k.i.d_&_Vingo)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "May Day (feat. Yellow Pato, G-k.i.d & Tiji Jojo)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/14_May_Day_(feat._Yellow_Pato,_G-k.i.d_&_Tiji_Jojo)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Sleep (feat. G-k.i.d, YZERR & Tiji Jojo)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/15_No_Sleep_(feat._G-k.i.d,_YZERR_&_Tiji_Jojo)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Super Wave (feat. Tiji Jojo, G-k.i.d & Yellow Pato)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/16_Super_Wave_(feat._Tiji_Jojo,_G-k.i.d_&_Yellow_Pato)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "3LDK (feat. Yellow Pato, Bark & G-k.i.d)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/17_3LDK_(feat._Yellow_Pato,_Bark_&_G-k.i.d)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "R.I.P (feat. G-k.i.d, Benjazzy, MUD & MonyHorse)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/18_R.I.P_(feat._G-k.i.d,_Benjazzy,_MUD_&_MonyHorse)_BAD_HOP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cry Baby",
+      "artist": "G-k.i.d",
+      "has_synced": false,
+      "path": "select/pl_01_Cry_Baby_G-k.i.d.txt"
+    }
+  ]
+}
